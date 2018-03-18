@@ -12,5 +12,50 @@
 	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/ProjectGen/lib/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/java-json-schema.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/testng-6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jackson-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-path-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-schema-validator-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/rest-assured-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/scala-support-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/xml-path-3.0.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
