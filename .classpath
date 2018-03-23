@@ -57,5 +57,17 @@
 	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/tagsoup-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/uri-template-0.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/xml-path-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-simple-1.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/preconditions-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/testng-6.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/ToJsonString-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/ToJsonString-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/ToJsonString-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Optimus/workspace/JAARS/json-simple-1.1-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

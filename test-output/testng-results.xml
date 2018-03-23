@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1827" started-at="2017-06-18T08:01:23Z" finished-at="2017-06-18T08:01:25Z">
+  <suite name="Default suite" duration-ms="3603" started-at="2018-03-23T04:15:22Z" finished-at="2018-03-23T04:15:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1827" started-at="2017-06-18T08:01:23Z" finished-at="2017-06-18T08:01:25Z">
-      <class name="apiClasses.ReadJsonObject">
-        <test-method status="PASS" signature="aptTesting()[pri:0, instance:apiClasses.ReadJsonObject@234bef66]" name="aptTesting" duration-ms="1804" started-at="2017-06-18T13:31:23Z" finished-at="2017-06-18T13:31:25Z">
+    <test name="Default test" duration-ms="3603" started-at="2018-03-23T04:15:22Z" finished-at="2018-03-23T04:15:26Z">
+      <class name="firstRESTpackage.APIPOSTtesting">
+        <test-method status="PASS" signature="postMethodtesting()[pri:0, instance:firstRESTpackage.APIPOSTtesting@14acaea5]" name="postMethodtesting" duration-ms="3583" started-at="2018-03-23T09:45:22Z" finished-at="2018-03-23T09:45:26Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- aptTesting -->
-      </class> <!-- apiClasses.ReadJsonObject -->
+        </test-method> <!-- postMethodtesting -->
+      </class> <!-- firstRESTpackage.APIPOSTtesting -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

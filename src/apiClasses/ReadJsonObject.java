@@ -7,7 +7,6 @@ import java.util.Scanner;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
-import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class ReadJsonObject {
